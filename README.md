@@ -11,6 +11,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1505202961519874049/1505203140499083426/rabbit.gif?ex=6a0fb3ea&is=6a0e626a&hm=189389d6e4037419d8a3d3e07e3f91ae64ad44dd37e11deb1b2bff9ad876809f&" width="300" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World;Im+Developer" alt="Typing SVG" />
 </h1>
