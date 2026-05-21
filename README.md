@@ -11,9 +11,7 @@
 
 </div>
 
-<p align="center">
-  <img src="./rabbit%20%281%29.gif" width="300" />
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+World;Im+Developer" alt="Typing SVG" />
