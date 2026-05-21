@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1505202961519874049/1505203140499083426/rabbit.gif?ex=6a0fb3ea&is=6a0e626a&hm=189389d6e4037419d8a3d3e07e3f91ae64ad44dd37e11deb1b2bff9ad876809f&" width="300" />
+  <img src="./rabbit%20%281%29.gif" width="300" />
 </p>
 
 <h1 align="center">
